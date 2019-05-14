@@ -1,5 +1,5 @@
 <?php
 return function () {
-	echo '3.0' . PHP_EOL;
+	echo '4.0' . PHP_EOL;
 };
 
