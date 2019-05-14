@@ -6,7 +6,7 @@ class Example
 {
 	public function render()
 	{
-		echo '1.0' . PHP_EOL;
+		echo '2.0' . PHP_EOL;
 	}
 }
 
